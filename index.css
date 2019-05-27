@@ -1,0 +1,158 @@
+.page1 {
+    background: url('image/bjjjjj.jpg') no-repeat;
+    background-size: cover;
+}
+
+.page1 img {
+    position: absolute;
+}
+
+.page1 img:nth-of-type(1) {
+    width: 3.5rem;
+    height: 4rem;
+    left: 0rem;
+    top: 3.8rem;
+}
+.page1 img:nth-of-type(2) {
+    width: 3.5rem;
+    height: 4rem;
+    left: 4rem;
+    top: 2.8rem;
+}
+.page1 img:nth-of-type(3) {
+    width: 3.5rem;
+    height: 4rem;
+    left: 0rem;
+    top: 8.5rem;
+}
+.page1 img:nth-of-type(4) {
+    width: 3.5rem;
+    height: 4rem;
+    left: 4rem;
+    top:7.5rem;
+}
+
+}
+
+
+/* ==PAGE2== */
+.page2 {
+    background: url('image/bjjjjj.jpg') no-repeat;
+    background-size: cover;
+}
+
+.page2 img {
+    position: absolute;
+}
+
+.page2 img:nth-of-type(1) {
+    width: 6rem;
+    height: 12rem;
+    left: 0.7rem;
+    top: 3rem;
+}
+
+.page3 {
+    background: url('image/bjjjjj.jpg') no-repeat;
+    background-size: cover;
+}
+
+.page3 img {
+    position: absolute;
+}
+
+.page3 img:nth-of-type(1) {
+    width: 3.8rem;
+    height: 3rem;
+    left: 0.1rem;
+    top: 6.2rem;
+}
+
+.page3 img:nth-of-type(2) {
+    width: 3.8rem;
+    height: 3rem;
+    right: 0.1rem;
+    top: 9.1rem;
+}
+
+.page3 img:nth-of-type(3) {
+    width: 3.8rem;
+    height: 3rem;
+    right: 0.1rem;
+    top:5.5rem;
+}
+
+.page3 img:nth-of-type(4) {
+    width: 3.8rem;
+    height: 3rem;
+    left: 0.1rem;
+    top:9.7rem;
+}
+.page3 img:nth-of-type(5) {
+    width: 3.4rem;
+    height: 2.9rem;
+    left: 2.05rem;
+    top:2.65rem;
+}
+.page4 {
+    background: url('image/bjjjjj.jpg') no-repeat;
+    background-size: cover;
+}
+
+.page4 img {
+    position: absolute;
+}
+
+.page4 img:nth-of-type(1) {
+    width: 3.5rem;
+    height: 4rem;
+    left: 0rem;
+    top: 1rem;
+}
+.page4 img:nth-of-type(2) {
+    width: 3.5rem;
+    height: 4rem;
+    left: 4rem;
+    top: 5rem;
+}
+.page4 img:nth-of-type(3) {
+    width: 3.5rem;
+    height: 4rem;
+    left: 0rem;
+    top: 6rem;
+}
+.page4 img:nth-of-type(4) {
+    width: 3.5rem;
+    height: 4rem;
+    left: 4rem;
+    top:0rem;
+}
+.page4 img:nth-of-type(5) {
+    width: 3.8rem;
+    height: 2.8rem;
+    left: 3.0rem;
+    top:9.2rem;
+}
+
+}
+.page5 {
+    background: url('image/bjjjjj.jpg') no-repeat;
+    background-size: cover;
+}
+
+.page5 img {
+    position: absolute;
+}
+
+.page5 img:nth-of-type(1) {
+    width: 8rem;
+    height: 15rem;
+    left: 0rem;
+    top: 0rem;
+}
+
+    
+
+
+
+
